@@ -11,7 +11,7 @@ public class FirstController {
     @GetMapping("/hi")
     public String nieToMeetYou(Model model){
         model.addAttribute("username", "eunjin");
-        return "greetings";
+        return "greetings"; // 주석주석 
     }
 
     @GetMapping("/bye")
