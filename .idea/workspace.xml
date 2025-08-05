@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d3f5ca0-256f-4453-8152-f9aee07f7ee4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eunjin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/eunjin/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eunjin/src/main/java/com/example/eunjin/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eunjin/src/main/java/com/example/eunjin/controller/ArticleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eunjin/src/main/java/com/example/eunjin/entity/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/eunjin/src/main/java/com/example/eunjin/entity/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyeju/src/main/resources/templates/articles/show.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/hyeju/src/main/resources/templates/articles/show.mustache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle./Users/jeong-eunjin/Documents/GitHub/Spring-STUDY/eunjin/build.gradle.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "eunjin/testest",
-    "last_opened_file_path": "/Users/jeong-eunjin/Documents/GitHub/Spring-STUDY"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle./Users/jeong-eunjin/Documents/GitHub/Spring-STUDY/eunjin/build.gradle.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hyeju/week07&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jeong-eunjin/Documents/GitHub/Spring-STUDY&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2d3f5ca0-256f-4453-8152-f9aee07f7ee4" name="Changes" comment="" />

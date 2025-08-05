@@ -9,11 +9,11 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 public class ArticleForm {
+    public Article toEntity;
     private String title;
     private String content;
-    private Long id;
 
     public Article toEntity() {
-        return new Article(id,title,content);
+        return new Article(null,title,content);
     }
 }
