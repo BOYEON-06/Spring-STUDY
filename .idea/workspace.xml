@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d3f5ca0-256f-4453-8152-f9aee07f7ee4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eunjin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/eunjin/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eunjin/src/main/java/com/example/eunjin/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eunjin/src/main/java/com/example/eunjin/controller/ArticleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eunjin/src/main/java/com/example/eunjin/entity/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/eunjin/src/main/java/com/example/eunjin/entity/Article.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d3f5ca0-256f-4453-8152-f9aee07f7ee4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "eunjin/testest",
+    "git-widget-placeholder": "hyeju/week07",
     "last_opened_file_path": "/Users/jeong-eunjin/Documents/GitHub/Spring-STUDY"
   }
 }]]></component>
