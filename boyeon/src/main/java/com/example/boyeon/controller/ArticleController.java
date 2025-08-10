@@ -41,7 +41,8 @@ public class ArticleController {
         log.info(saved.toString());
         // System.out.println(saved.toString()); // article이 DB에 잘 저장되는지 확안 출력
 
-        return "";
+        // 리다이렉트: 새로운 주소로 재요청 지시
+        return "redirect:/articles/" + saved.getId();
     }
     @GetMapping("/articles/{id}") // 데이터 조회 요청 접수
     public String show(@PathVariable Long id, Model model) { // 매개변수로 id 받아 오기
@@ -53,7 +54,7 @@ public class ArticleController {
 
     @GetMapping("/articles") // URL 요청 받음
     public String index(Model model) {
-        ArrayList<Article> articleEntityList = articleRepository.findAll();
+        Iterable<Article> articleEntityList = articleRepository.findAll();
         model.addAttribute("articleList", articleEntityList);
         return "articles/index";
     }
