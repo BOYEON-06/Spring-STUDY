@@ -5,13 +5,13 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
-
-import javax.annotation.processing.Generated;
 
 @Entity
 
 @AllArgsConstructor
+@NoArgsConstructor // 기본 생성자 추가 어노테이션
 @ToString
 public class Article {
     @Id
