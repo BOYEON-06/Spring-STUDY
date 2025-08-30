@@ -51,7 +51,7 @@ public class ArticleApiController {
     //DELETE(데이터 삭제)
     @DeleteMapping("/api/articles/{id}")
     public ResponseEntity<Article> Delete(@PathVariable Long id) {
-        Article deleted = articleService.deleted(id);
+        Article deleted = articleService.delete(id);
         return (deleted != null) ?
                 ResponseEntity.status(HttpStatus.NO_CONTENT).build():
                 ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
