@@ -1,6 +1,6 @@
 package com.example.hyeju.service;
 
-import com.example.hyeju.controller.entity.Article;
+import com.example.hyeju.entity.Article;
 import com.example.hyeju.dto.ArticleForm;
 
 import org.junit.jupiter.api.Test; //test 패키지 임포트

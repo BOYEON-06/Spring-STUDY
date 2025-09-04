@@ -1,6 +1,6 @@
 package com.example.hyeju.repository;
 
-import com.example.hyeju.controller.entity.Article;
+import com.example.hyeju.entity.Article;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.ArrayList;

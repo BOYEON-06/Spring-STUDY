@@ -1,7 +1,7 @@
 //DTO
 package com.example.hyeju.dto;
 
-import com.example.hyeju.controller.entity.Article;
+import com.example.hyeju.entity.Article;
 import lombok.AllArgsConstructor;
 import lombok.ToString;
 
