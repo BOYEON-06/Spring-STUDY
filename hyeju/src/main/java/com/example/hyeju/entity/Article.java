@@ -1,4 +1,4 @@
-package com.example.hyeju.controller.entity;
+package com.example.hyeju.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

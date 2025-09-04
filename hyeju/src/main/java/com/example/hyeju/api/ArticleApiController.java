@@ -1,6 +1,6 @@
 package com.example.hyeju.api;
 
-import com.example.hyeju.controller.entity.Article;
+import com.example.hyeju.entity.Article;
 import com.example.hyeju.dto.ArticleForm;
 import com.example.hyeju.service.ArticleService;
 import lombok.extern.slf4j.Slf4j;
